@@ -1,0 +1,4 @@
+hello hadoop
+hello world
+hello java
+wang yuan long

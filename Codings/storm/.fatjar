@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Mar 31 23:59:09 HKT 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=storm_fat.jar
+manifest.mergeall=true
+manifest.mainclass=WordCountTopo
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|asm-4.0.jar>;<jar|clojure-1.6.0.jar>;<jar|commons-io-2.4.jar>;<jar|commons-lang-2.6.jar>;<jar|disruptor-2.10.4.jar>;<jar|hadoop-auth-2.4.0.jar>;<jar|kryo-2.21.jar>;<jar|log4j-api-2.1.jar>;<jar|log4j-core-2.1.jar>;<jar|log4j-over-slf4j-1.6.6.jar>;<jar|log4j-slf4j-impl-2.1.jar>;<jar|minlog-1.2.jar>;<jar|reflectasm-1.07-shaded.jar>;<jar|servlet-api-2.5.jar>;<jar|slf4j-api-1.7.7.jar>;<jar|storm-core-0.10.0.jar>
+includes=
